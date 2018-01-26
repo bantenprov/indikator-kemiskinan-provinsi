@@ -137,7 +137,7 @@ class IkProvinsiServiceProvider extends ServiceProvider
 
         $this->publishes([
             $packageAssetsPath => resource_path('assets'),
-        ], 'pdrb-assets');
+        ], 'ik-assets');
     }
 
     /**
@@ -162,6 +162,6 @@ class IkProvinsiServiceProvider extends ServiceProvider
 
         $this->publishes([
             $packagePublicPath => base_path('public')
-        ], 'pdrb-public');
+        ], 'ik-public');
     }
 }
