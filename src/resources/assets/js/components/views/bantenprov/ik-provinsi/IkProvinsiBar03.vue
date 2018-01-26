@@ -56,7 +56,7 @@ export default {
     }
   },
   mounted: function () {
-    axios.get('/json/bantenprov/ik-provinsi/ik-provinsi03.json').then(response => {
+    axios.get('/json/bantenprov/ik-provinsi/ik-provinsi05.json').then(response => {
 
       var e = response.data;
       var get = e[0].chartdata.grafik[0];
