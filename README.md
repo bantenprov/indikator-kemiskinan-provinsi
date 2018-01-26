@@ -167,7 +167,7 @@ Vue.component('ik-provinsi-pie-03', IkProvinsiPie03);
 #### Untuk publish component vue :
 
 ```bash
-$ php artisan vendor:publish --tag=pdrb-assets
-$ php artisan vendor:publish --tag=pdrb-public
+$ php artisan vendor:publish --tag=ik-assets
+$ php artisan vendor:publish --tag=ik-public
 ```
 
