@@ -128,6 +128,7 @@ children: [
 #### Tambahkan components `resources/assets/js/components.js` :
 
 ```javascript
+
 import IkProvinsi from './components/bantenprov/ik-provinsi/IkProvinsi.chart.vue';
 Vue.component('echarts-ik-provinsi', IkProvinsi);
 
@@ -161,7 +162,6 @@ Vue.component('ik-provinsi-pie-02', IkProvinsiPie02);
 //== mini pie charts
 import IkProvinsiPie03 from './components/views/bantenprov/ik-provinsi/IkProvinsiPie03.vue';
 Vue.component('ik-provinsi-pie-03', IkProvinsiPie03);
-
 ```
 
 #### Untuk publish component vue :
