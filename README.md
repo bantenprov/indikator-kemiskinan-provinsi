@@ -129,38 +129,38 @@ children: [
 
 ```javascript
 import IkProvinsi from './components/bantenprov/ik-provinsi/IkProvinsi.chart.vue';
-Vue.component('echarts-Ik-provinsi', IkProvinsi);
+Vue.component('echarts-ik-provinsi', IkProvinsi);
 
 import IkProvinsiKota from './components/bantenprov/ik-provinsi/IkProvinsiKota.chart.vue';
-Vue.component('echarts-Ik-provinsi-kota', IkProvinsiKota);
+Vue.component('echarts-ik-provinsi-kota', IkProvinsiKota);
 
 import IkProvinsiTahun from './components/bantenprov/ik-provinsi/IkProvinsiTahun.chart.vue';
-Vue.component('echarts-Ik-provinsi-tahun', IkProvinsiTahun);
+Vue.component('echarts-ik-provinsi-tahun', IkProvinsiTahun);
 
 import IkProvinsiAdminShow from './components/bantenprov/ik-provinsi/IkProvinsiAdmin.show.vue';
-Vue.component('admin-view-Ik-provinsi-tahun', IkProvinsiAdminShow);
+Vue.component('admin-view-ik-provinsi-tahun', IkProvinsiAdminShow);
 
 //== Echarts pdrb
 
 import IkProvinsiBar01 from './components/views/bantenprov/ik-provinsi/IkProvinsiBar01.vue';
-Vue.component('Ik-provinsi-bar-01', IkProvinsiBar01);
+Vue.component('ik-provinsi-bar-01', IkProvinsiBar01);
 
 import IkProvinsiBar02 from './components/views/bantenprov/ik-provinsi/IkProvinsiBar02.vue';
-Vue.component('Ik-provinsi-bar-02', IkProvinsiBar02);
+Vue.component('ik-provinsi-bar-02', IkProvinsiBar02);
 
 //== mini bar charts
 import IkProvinsiBar03 from './components/views/bantenprov/ik-provinsi/IkProvinsiBar03.vue';
-Vue.component('Ik-provinsi-bar-03', IkProvinsiBar03);
+Vue.component('ik-provinsi-bar-03', IkProvinsiBar03);
 
 import IkProvinsiPie01 from './components/views/bantenprov/ik-provinsi/IkProvinsiPie01.vue';
-Vue.component('Ik-provinsi-pie-01', IkProvinsiPie01);
+Vue.component('ik-provinsi-pie-01', IkProvinsiPie01);
 
 import IkProvinsiPie02 from './components/views/bantenprov/ik-provinsi/IkProvinsiPie02.vue';
-Vue.component('Ik-provinsi-pie-02', IkProvinsiPie02);
+Vue.component('ik-provinsi-pie-02', IkProvinsiPie02);
 
 //== mini pie charts
 import IkProvinsiPie03 from './components/views/bantenprov/ik-provinsi/IkProvinsiPie03.vue';
-Vue.component('Ik-provinsi-pie-03', IkProvinsiPie03);
+Vue.component('ik-provinsi-pie-03', IkProvinsiPie03);
 
 ```
 
