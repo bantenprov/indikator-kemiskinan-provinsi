@@ -10,7 +10,7 @@ Dashboard Indikator Kemiskinan Provinsi Banten dan Nasional
 
 - Development snapshot
 ```bash
-$ composer require bantenprov/indikator-kemiskinan-provinsi:dev:master
+$ composer require bantenprov/indikator-kemiskinan-provinsi:dev-master
 ```
 - Latest release:
 
