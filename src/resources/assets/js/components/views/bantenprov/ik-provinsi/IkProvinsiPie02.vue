@@ -89,7 +89,7 @@ export default {
   },
   mounted: function () {
 
-    axios.get('/json/bantenprov/ik-provinsi/ik-provinsi02.json').then(response => {
+    axios.get('/json/bantenprov/ik-provinsi/ik-provinsi05.json').then(response => {
       let obj_key = [];
       var datas = response.data;
 
