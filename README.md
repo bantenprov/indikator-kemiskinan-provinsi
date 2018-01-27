@@ -1,8 +1,8 @@
 # Indikator Kemiskinan Provinsi
 
 [![Join the chat at https://gitter.im/ik-provinsi/Lobby](https://badges.gitter.im/ik-provinsi/Lobby.svg)](https://gitter.im/ik-provinsi/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/ik-provinsi/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/ik-provinsi/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/bantenprov/ik-provinsi/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/ik-provinsi/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/indikator-kemiskinan-provinsi/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/indikator-kemiskinan-provinsi/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/bantenprov/indikator-kemiskinan-provinsi/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/indikator-kemiskinan-provinsi/build-status/master)
 
 Dashboard Indikator Kemiskinan Provinsi Banten dan Nasional
 
