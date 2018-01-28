@@ -1,8 +1,8 @@
 <?php
 
-if (! function_exists('pdrbHargaDasar')) {
-    function pdrbHargaDasar()
+if (! function_exists('liPengeluaran')) {
+    function liPengeluaran()
     {
-        return 'Welcome to function pdrbHargaDasar() for Bantenprov\IkProvinsi package';
+        return 'Welcome to function liPengeluaran() for Bantenprov\IkProvinsi package';
     }
 }
