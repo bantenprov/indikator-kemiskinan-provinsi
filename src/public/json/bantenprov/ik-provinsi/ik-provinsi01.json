@@ -3,114 +3,130 @@
     "chartdata": {
       "grafik": [
         {
-          "tingkat": "Kebupaten",
-          "name": "Pandeglang",
+          "wilayah": "Banten",
+          "uraian": "Garis Kemiskinan(rupiah)",
+          "name": "Makanan",
           "tahun": [
             {
-              "2010": 12279.5,
-              "2011": 13695,
-              "2012": 15115,
-              "2013": 16443,
-              "2014": 18195,
-              "2015": 20278
+              "September/2013": 204811,
+              "September/2014": 223825,
+              "September/2015": 250522,
+              "September/2016": 262422
             }
           ]
         },
         {
-          "tingkat": "Kebupaten",
-          "name": "Lebak",
+          "wilayah": "Banten",
+          "uraian": "Garis Kemiskinan(rupiah)",
+          "name": "Non Makanan",
           "tahun": [
             {
-              "2010": 12572,
-              "2011": 1396,
-              "2012": 15125,
-              "2013": 16742,
-              "2014": 18606,
-              "2015": 20729
+              "September/2013": 83923,
+              "September/2014": 91994,
+              "September/2015": 105914,
+              "September/2016": 110923
             }
           ]
         },
         {
-          "tingkat": "Kebupaten",
-          "name": "Tangerang",
+          "wilayah": "Indonesia",
+          "uraian": "Garis Kemiskinan(rupiah)",
+          "name": "Makanan",
           "tahun": [
             {
-              "2010": 58099,
-              "2011": 65741,
-              "2012": 72303,
-              "2013": 8057,
-              "2014": 91692,
-              "2015": 102044
+              "September/2013": 215122,
+              "September/2014": 229469,
+              "September/2015": 251943,
+              "September/2016": 264941
             }
           ]
         },
         {
-          "tingkat": "Kebupaten",
-          "name": "Serang",
+          "wilayah": "Indonesia",
+          "uraian": "Garis Kemiskinan(rupiah)",
+          "name": "Non Makanan",
           "tahun": [
             {
-              "2010": 33841,
-              "2011": 38186,
-              "2012": 42039,
-              "2013": 45972,
-              "2014": 5143,
-              "2015": 56313
+              "September/2013": 77829,
+              "September/2014": 82859,
+              "September/2015": 92866,
+              "September/2016": 97050
             }
           ]
         },
         {
-          "tingkat": "Kota",
-          "name": "Tangerang",
+          "wilayah": "Banten",
+          "name": "Total",
           "tahun": [
             {
-              "2010": 66921,
-              "2011": 75709,
-              "2012": 83648,
-              "2013": 94561,
-              "2014": 110772,
-              "2015": 126119
+              "September/2013": 288733,
+              "September/2014": 315819,
+              "September/2015": 356436,
+              "September/2016": 373365
             }
           ]
         },
         {
-          "tingkat": "Kota",
-          "name": "Cilegon",
+          "wilayah": "Indonesia",
+          "name": "Total",
           "tahun": [
             {
-              "2010": 44676,
-              "2011": 49827,
-              "2012": 55414,
-              "2013": 61746,
-              "2014": 7003,
-              "2015": 77962
+              "September/2013": 292951,
+              "September/2014": 312328,
+              "September/2015": 344809,
+              "September/2016": 361990
             }
           ]
         },
         {
-          "tingkat": "Kota",
-          "name": "Serang",
+          "wilayah": "Banten",
+          "uraian": "Penduduk Miskin",
+          "name": "Jumlah Miskin",
           "tahun": [
             {
-              "2010": 12549,
-              "2011": 1416,
-              "2012": 15506,
-              "2013": 17452,
-              "2014": 19691,
-              "2015": 21866
+              "September/2013": 677508,
+              "September/2014": 649188,
+              "September/2015": 690668,
+              "September/2016": 657740
             }
           ]
         },
         {
-          "tingkat": "Kota",
-          "name": "Tangerang Selatan",
+          "wilayah": "Indonesia",
+          "uraian": "Penduduk Miskin",
+          "name": "Jumlah Miskin",
           "tahun": [
             {
-              "2010": 30525,
-              "2011": 34891,
-              "2012": 39071,
-              "2013": 44346,
-              "2014": 50214,
-              "2015": 56044
+              "September/2013": 28606685,
+              "September/2014": 27727778,
+              "September/2015": 28513570,
+              "September/2016": 27764320
+            }
+          ]
+        },
+                {
+          "wilayah": "Banten",
+          "uraian": "Penduduk Tidak Miskin",
+          "name": "Jumlah",
+          "tahun": [
+            {
+              "September/2013": 10817834,
+              "September/2014": 11126494,
+              "September/2015": 11325308,
+              "September/2016": 11606265
+            }
+          ]
+        },
+        {
+          "wilayah": "Indonesia",
+          "uraian": "Penduduk Tidak Miskin",
+          "name": "Jumlah",
+          "tahun": [
+            {
+              "September/2013": 221027765,
+              "September/2014": 225337016,
+              "September/2015": 227719363,
+              "September/2016": 231733374
             }
           ]
         }
@@ -118,4 +134,3 @@
     }
   }
 ]
-
