@@ -4,7 +4,7 @@
       "grafik": [
         {
           "wilayah": "Banten",
-          "uraian": "Garis Kemiskinan(rupiah)",
+          "tingkat": "Garis Kemiskinan(rupiah)",
           "name": "Makanan",
           "tahun": [
             {
@@ -17,7 +17,7 @@
         },
         {
           "wilayah": "Banten",
-          "uraian": "Garis Kemiskinan(rupiah)",
+          "tingkat": "Garis Kemiskinan(rupiah)",
           "name": "Non Makanan",
           "tahun": [
             {
@@ -30,7 +30,7 @@
         },
         {
           "wilayah": "Indonesia",
-          "uraian": "Garis Kemiskinan(rupiah)",
+          "tingkat": "Garis Kemiskinan(rupiah)",
           "name": "Makanan",
           "tahun": [
             {
@@ -43,7 +43,7 @@
         },
         {
           "wilayah": "Indonesia",
-          "uraian": "Garis Kemiskinan(rupiah)",
+          "tingkat": "Garis Kemiskinan(rupiah)",
           "name": "Non Makanan",
           "tahun": [
             {
@@ -80,7 +80,7 @@
         },
         {
           "wilayah": "Banten",
-          "uraian": "Penduduk Miskin",
+          "tingkat": "Penduduk Miskin",
           "name": "Jumlah Miskin",
           "tahun": [
             {
@@ -93,7 +93,7 @@
         },
         {
           "wilayah": "Indonesia",
-          "uraian": "Penduduk Miskin",
+          "tingkat": "Penduduk Miskin",
           "name": "Jumlah Miskin",
           "tahun": [
             {
@@ -106,7 +106,7 @@
         },
                 {
           "wilayah": "Banten",
-          "uraian": "Penduduk Tidak Miskin",
+          "tingkat": "Penduduk Tidak Miskin",
           "name": "Jumlah",
           "tahun": [
             {
@@ -119,7 +119,7 @@
         },
         {
           "wilayah": "Indonesia",
-          "uraian": "Penduduk Tidak Miskin",
+          "tingkat": "Penduduk Tidak Miskin",
           "name": "Jumlah",
           "tahun": [
             {
