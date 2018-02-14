@@ -18,6 +18,18 @@
         "name": "Garis Kemiskinan",
         "tingkat": "Total",
         "data": 288733
+      },
+      {
+        "wilayah": "Banten",
+        "name": "Penduduk Miskin",
+        "tingkat": "Jumlah Miskin",
+        "data": 677508
+      },
+      {
+        "wilayah": "Banten",
+        "name": "Penduduk Tidak Miskin",
+        "tingkat": "Jumlah",
+        "data": 10817843
       }, 
       {
         "wilayah": "Indonesia",
@@ -36,6 +48,18 @@
         "name": "Garis Kemiskinan",
         "tingkat": "Total",
         "data": 292951
+      },
+      {
+        "wilayah": "Indonesia",
+        "name": "Penduduk Miskin",
+        "tingkat": "Jumlah Miskin",
+        "data": 28606685
+      },
+      {
+        "wilayah": "Indonesia",
+        "name": "Penduduk Tidak Miskin",
+        "tingkat": "Jumlah",
+        "data": 225337016
       }
     ],
     "2014": [
@@ -57,6 +81,18 @@
         "tingkat": "Total",
         "data": 315819
       },
+      {
+        "wilayah": "Banten",
+        "name": "Penduduk Miskin",
+        "tingkat": "Jumlah Miskin",
+        "data": 649188
+      },
+      {
+        "wilayah": "Banten",
+        "name": "Penduduk Tidak Miskin",
+        "tingkat": "Jumlah",
+        "data": 11126494
+      },
        {
         "wilayah": "Indonesia",
         "name": "Garis Kemiskinan",
@@ -74,6 +110,18 @@
         "name": "Garis Kemiskinan",
         "tingkat": "Total",
         "data": 312328
+      },
+      {
+        "wilayah": "Indonesia",
+        "name": "Penduduk Miskin",
+        "tingkat": "Jumlah Miskin",
+        "data": 27727778
+      },
+      {
+        "wilayah": "Indonesia",
+        "name": "Penduduk Tidak Miskin",
+        "tingkat": "Jumlah",
+        "data": 225337016
       }
     ],
     "2015": [
@@ -95,6 +143,18 @@
         "tingkat": "Total",
         "data": 356436
       },
+      {
+        "wilayah": "Banten",
+        "name": "Penduduk Miskin",
+        "tingkat": "Jumlah Miskin",
+        "data": 690668
+      },
+      {
+        "wilayah": "Banten",
+        "name": "Penduduk Tidak Miskin",
+        "tingkat": "Jumlah",
+        "data": 11606265
+      },
        {
         "wilayah": "Indonesia",
         "name": "Garis Kemiskinan",
@@ -112,6 +172,18 @@
         "name": "Garis Kemiskinan",
         "tingkat": "Total",
         "data": 344908
+      },
+      {
+        "wilayah": "Indonesia",
+        "name": "Penduduk Miskin",
+        "tingkat": "Jumlah Miskin",
+        "data": 28513570
+      },
+      {
+        "wilayah": "Indonesia",
+        "name": "Penduduk Tidak Miskin",
+        "tingkat": "Jumlah",
+        "data": 227719363
       }
     ],
     "2016": [
@@ -133,6 +205,18 @@
         "tingkat": "Total",
         "data": 373365
       },
+      {
+        "wilayah": "Banten",
+        "name": "Penduduk Miskin",
+        "tingkat": "Jumlah Miskin",
+        "data": 657740
+      },
+      {
+        "wilayah": "Banten",
+        "name": "Penduduk Tidak Miskin",
+        "tingkat": "Jumlah",
+        "data": 11606265
+      },
        {
         "wilayah": "Indonesia",
         "name": "Garis Kemiskinan",
@@ -150,6 +234,18 @@
         "name": "Garis Kemiskinan",
         "tingkat": "Total",
         "data": 361990
+      },
+      {
+        "wilayah": "Indonesia",
+        "name": "Penduduk Miskin",
+        "tingkat": "Jumlah Miskin",
+        "data": 27764320
+      },
+      {
+        "wilayah": "Indonesia",
+        "name": "Penduduk Tidak Miskin",
+        "tingkat": "Jumlah",
+        "data": 231733374
       }
     ]
   }
