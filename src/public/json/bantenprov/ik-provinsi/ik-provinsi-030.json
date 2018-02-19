@@ -1,0 +1,130 @@
+[
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "",
+      "name": "Kabupaten",
+      "yyyy": "September 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          237111,
+          219177,
+          351789,
+          22319,
+          421554,
+          306253,
+          242977,
+          401696
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "",
+      "name": "Kabupaten",
+      "yyyy": "September 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          113.1,
+          115.8,
+          173.1,
+          71.4,
+          98.8,
+          15.5,
+          36.2,
+          25.3
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "",
+      "name": "Kabupaten",
+      "yyyy": "Maret 2015",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          247073,
+          228146,
+          372431,
+          232856,
+          455228,
+          323935,
+          255614,
+          433967
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "",
+      "name": "Kabupaten",
+      "yyyy": "Maret 2015",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          124.4,
+          126.4,
+          191.1,
+          74.9,
+          102.6,
+          17,
+          40.2,
+          25.9
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          237111,
+          247073
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          219177,
+          228146
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          351789,
+          372431
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          22319,
+          232856
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          421554,
+          455228
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          306253,
+          323935
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          242977,
+          255614
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          401696,
+          433967
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "region": "Provinsi",
+      "name": "Provinsi Banten",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          315819,
+          336483
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          113.1,
+          124.4
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          115.8,
+          126.4
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          173.1,
+          191.1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          71.4,
+          74.9
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          98.8,
+          102.6
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          15.5,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          36.2,
+          40.2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          25.3,
+          25.9
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
+      "region": "Provinsi",
+      "name": "Provinsi Banten",
+      "data": [
+        "September 2014",
+        "Maret 2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          649.2,
+          702.4
+        ]
+      }
+    ]
+  }
+]
