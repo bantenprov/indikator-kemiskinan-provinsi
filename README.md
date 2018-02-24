@@ -41,6 +41,14 @@ $ git clone https://github.com/bantenprov/indikator-kemiskinan-provinsi.git
 
 ```
 
+#### Untuk publish component vue :
+
+```bash
+$ php artisan vendor:publish --tag=ik-assets
+$ php artisan vendor:publish --tag=ik-public
+```
+
+
 #### Tambahkan route di dalam route : `resources/assets/js/routes.js` :
 
 ```javascript
@@ -122,6 +130,27 @@ children: [
         }
   ]
 },
+{
+name: 'Admin',
+        icon: 'fa fa-lock',
+        childType: 'collapse',
+        childItem: [
+            {
+                name: 'Dashboard',
+                icon: 'fa fa-angle-double-right',
+                child: [
+                    {
+                        name: 'Home',
+                        link: '/admin/dashboard/home',
+                        icon: 'fa fa-angle-right'
+                    },
+                    //== ...
+                    {
+                        name: 'IK Provinsi',
+                        link: '/admin/dashboard/ik-provinsi',
+                        icon: 'fa fa-angle-right'
+                    }
+                    //== ...
 ```
 
 
@@ -164,10 +193,4 @@ import IkProvinsiPie03 from './components/views/bantenprov/ik-provinsi/IkProvins
 Vue.component('ik-provinsi-pie-03', IkProvinsiPie03);
 ```
 
-#### Untuk publish component vue :
-
-```bash
-$ php artisan vendor:publish --tag=ik-assets
-$ php artisan vendor:publish --tag=ik-public
-```
 
