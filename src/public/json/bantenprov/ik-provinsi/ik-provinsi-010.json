@@ -1,0 +1,223 @@
+[
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah) ",
+      "title": "Garis Kemiskinan(rupiah). MAKANAN Provinsi Banten",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+        
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          204811,
+          223825,
+          250522,
+          262422
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Garis Kemiskinan(rupiah). MAKANAN Negara Indonesia",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          215122,
+          229469,
+          251943,
+          264941
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Garis Kemiskinan(rupiah). NON MAKANAN Provinsi Banten",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          83923,
+          91994,
+          105914,
+          110923
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Garis Kemiskinan(rupiah). NON MAKANAN Negara Indonesia",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         77829,
+            82859,
+            92866,
+           97050
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Garis Kemiskinan(rupiah). TOTAL Provinsi Banten",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         288733,
+          315819,
+         356436,
+         373365
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Garis Kemiskinan(rupiah). TOTAL Negara Indonesia",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         292951,
+          312328,
+          344809,
+          361990
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Jumlah Penduduk(orang) Miskin Provinsi Banten",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         677508,
+         649188,
+        690668,
+          657740
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Jumlah Penduduk(orang) Miskin Negara Indonesia",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         28606685,
+          27727778,
+          28513570,
+          27764320
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Jumlah Penduduk Tidak Miskin Provinsi Banten",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         10817834,
+          11126494,
+          11325308,
+          11606265
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Jumlah Penduduk Tidak Miskin Negara Indonesia",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+        221027765,
+        225337016,
+        227719363,
+        231733374
+        ]
+      }
+    ]
+  }
+]

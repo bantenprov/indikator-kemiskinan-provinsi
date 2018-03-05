@@ -1,0 +1,209 @@
+[
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Banten 2013",
+      "region": "Kabupaten",
+      "name": "Pandeglang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 204811,
+            "name": "Makanan"
+          },
+          {
+            "value": 83923,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 288733,
+            "name": "Total"
+          }          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Indonesia 2013",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 215122,
+            "name": "Makanan"
+          },
+          {
+            "value": 77829,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 292951,
+            "name": "Total"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Banten 2014",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 223825,
+            "name": "Makanan"
+          },
+          {
+            "value": 91994,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 315819,
+            "name": "Total"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Indonesia 2014",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 229469,
+            "name": "Makanan"
+          },
+          {
+            "value": 82859,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 312328,
+            "name": "Total"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Banten 2015",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 250522,
+            "name": "Makanan"
+          },
+          {
+            "value": 105914,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 356436,
+            "name": "Total"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Indonesia 2015",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 251943,
+            "name": "Makanan"
+          },
+          {
+            "value": 92866,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 344809,
+            "name": "Total"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Banten 2016",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 262442,
+            "name": "Makanan"
+          },
+          {
+            "value": 110923,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 373365,
+            "name": "Total"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Indonesia 2016",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 264941,
+            "name": "Makanan"
+          },
+          {
+            "value": 97050,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 361990,
+            "name": "Total"
+          }
+        ]
+      }
+    ]
+  }
+]

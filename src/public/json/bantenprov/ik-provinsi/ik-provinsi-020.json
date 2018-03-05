@@ -1,0 +1,506 @@
+[
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan September/2013 provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2013",
+      "data": [
+        "Makanan",
+        "Non Makanan",
+        "Total"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          204811,
+          83923,
+          288733
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan September/2013 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2013",
+      "data": [
+        "Makanan",
+        "Non Makanan",
+        "Total"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          215122,
+          77829,
+          292951
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Penduduk Miskin September/2013 Provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2013",
+      "data": [
+        "Penduduk Miskin",
+        "Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          667508,
+          10817843
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Penduduk Miskin September/2013 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2013",
+      "data": [
+        "Penduduk Miskin",
+        "Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          28606685,
+          221027765
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan September/2014 provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2014",
+      "data": [
+        "Makanan",
+        "Non Makanan",
+        "Total"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          223825,
+          91994,
+          315819
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan September/2014 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2014",
+      "data": [
+        "Makanan",
+        "Non Makanan",
+        "Total"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          229469,
+          82859,
+          312328
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Penduduk Miskin September/2014 Provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2014",
+      "data": [
+        "Penduduk Miskin",
+        "Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         649188,
+        11126494
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Penduduk Miskin September/2014 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2014",
+      "data": [
+        "Penduduk Miskin",
+        "Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          27727778,
+          227719363
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan September/2015 provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2015",
+      "data": [
+        "Makanan",
+        "Non Makanan",
+        "Total"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          250522,
+          105914,
+          356436
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan September/2015 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2015",
+      "data": [
+        "Makanan",
+        "Non Makanan",
+        "Total"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          251943,
+          92866,
+          344809
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Penduduk Miskin September/2015 Provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2015",
+      "data": [
+        "Penduduk Miskin",
+        "Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         690668,
+        11325308
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Penduduk Miskin September/2015 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2015",
+      "data": [
+        "Penduduk Miskin",
+        "Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          28513579,
+          227719363
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan September/2016 provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Makanan",
+        "Non Makanan",
+        "Total"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          262442,
+          110923,
+          373365
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan September/2016 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Makanan",
+        "Non Makanan",
+        "Total"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          264941,
+          97050,
+          361990
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Penduduk Miskin September/2016 Provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Penduduk Miskin",
+        "Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         657740,
+        11606265
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Penduduk Miskin September/2016 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Penduduk Miskin",
+        "Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          27764320,
+          231733374
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Persentase Penduduk Miskin 2013 Provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Persentase Penduduk Miskin",
+        "Indeks Kedalaman Kemiskinan",
+        "Indeks Keparahan Kemiskinan",
+        "Persentase Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.89,
+          1.021,
+          0.293,
+          94.11
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Persentase Penduduk Miskin 2013 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Persentase Penduduk Miskin",
+        "Indeks Kedalaman Kemiskinan",
+        "Indeks Keparahan Kemiskinan",
+        "Persentase Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          11.46,
+          1.833,
+          0.482,
+          88.54
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Persentase Penduduk Miskin 2014 Provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Persentase Penduduk Miskin",
+        "Indeks Kedalaman Kemiskinan",
+        "Indeks Keparahan Kemiskinan",
+        "Persentase Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.51,
+          0.786,
+          0.178,
+          94.49
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Persentase Penduduk Miskin 2014 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Persentase Penduduk Miskin",
+        "Indeks Kedalaman Kemiskinan",
+        "Indeks Keparahan Kemiskinan",
+        "Persentase Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          10.96,
+          1.751,
+          0.441,
+          89.04
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Persentase Penduduk Miskin 2015 Provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Persentase Penduduk Miskin",
+        "Indeks Kedalaman Kemiskinan",
+        "Indeks Keparahan Kemiskinan",
+        "Persentase Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.75,
+          0.901,
+          0.210,
+          94.25
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Persentase Penduduk Miskin 2015 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Persentase Penduduk Miskin",
+        "Indeks Kedalaman Kemiskinan",
+        "Indeks Keparahan Kemiskinan",
+        "Persentase Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          11.13,
+          1.841,
+          0.511,
+          88.87
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Persentase Penduduk Miskin 2016 provinsi Banten",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Persentase Penduduk Miskin",
+        "Indeks Kedalaman Kemiskinan",
+        "Indeks Keparahan Kemiskinan",
+        "Persentase Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.36,
+          0.763,
+          0.166,
+          94.64
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Persentase Penduduk Miskin 2016 Negara Indonesia",
+      "name": "Provinsi",
+      "yyyy": "September 2016",
+      "data": [
+        "Persentase Penduduk Miskin",
+        "Indeks Kedalaman Kemiskinan",
+        "Indeks Keparahan Kemiskinan",
+        "Persentase Penduduk Tidak Miskin"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          10.70,
+          1.743,
+          0.437,
+          89.30
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Makanan Provinsi Banten",
+      "region": "Kabupaten",
+      "yyyy": "September 2014"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 204811,
+            "name": "September 2013"
+          },
+          {
+            "value": 223825,
+            "name": "September 2014"
+          },
+          {
+            "value": 250522,
+            "name": "September 2015"
+          },
+          {
+            "value": 262422,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Non Makanan Negara Indonesia",
+      "type": "title",
+      "region": "Kota",
+      "yyyy": "September 2014"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 215122,
+            "name": "September 2013"
+          },
+          {
+            "value": 229469,
+            "name": "September 2014"
+          },
+          {
+            "value": 251943,
+            "name": "September 2015"
+          },
+          {
+            "value": 264941,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Non Makanan Provinsi Banten",
+      "region": "Kabupaten",
+      "yyyy": "Maret 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 83923,
+            "name": "September 2013"
+          },
+          {
+            "value": 91994,
+            "name": "September 2014"
+          },
+          {
+            "value": 105914,
+            "name": "September 2015"
+          },
+          {
+            "value": 110923,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Non Makanan Negara Indonesia",
+      "region": "Kota",
+      "yyyy": "Maret 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 77829,
+            "name": "September 2013"
+          },
+          {
+            "value": 82859,
+            "name": "September 2014"
+          },
+          {
+            "value": 92866,
+            "name": "September 2015"
+          },
+          {
+            "value": 97050,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Total Provinsi Banten",
+      "region": "Kabupaten",
+      "yyyy": "September 2014"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 288733,
+            "name": "September 2013"
+          },
+          {
+            "value": 315819,
+            "name": "September 2014"
+          },
+          {
+            "value": 356436,
+            "name": "September 2015"
+          },
+          {
+            "value": 373365,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Garis Kemiskinan Total Negara Indonesia",
+      "region": "Kota",
+      "yyyy": "September 2014"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 292951,
+            "name": "September 2013"
+          },
+          {
+            "value": 312328,
+            "name": "September 2014"
+          },
+          {
+            "value": 344809,
+            "name": "September 2015"
+          },
+          {
+            "value": 361990,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Jumlah Penduduk(orang) Miskin Provinsi Banten",
+      "region": "Kabupaten",
+      "yyyy": "Maret 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 677508,
+            "name": "September 2013"
+          },
+          {
+            "value": 649188,
+            "name": "September 2014"
+          },
+          {
+            "value": 690668,
+            "name": "September 2015"
+          },
+          {
+            "value": 657740,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Jumlah Penduduk(orang) Miskin Negara Indonesia",
+      "region": "Kota",
+      "yyyy": "Maret 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 28606685,
+            "name": "September 2013"
+          },
+          {
+            "value": 27727778,
+            "name": "September 2014"
+          },
+          {
+            "value": 28513570,
+            "name": "September 2015"
+          },
+          {
+            "value": 27764320,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Jumlah Penduduk Tidak Miskin Provinsi Banten",
+      "region": "Kota",
+      "yyyy": "Maret 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 10817834,
+            "name": "September 2013"
+          },
+          {
+            "value": 11126494,
+            "name": "September 2014"
+          },
+          {
+            "value": 11325308,
+            "name": "September 2015"
+          },
+          {
+            "value": 11606265,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Jumlah Penduduk Tidak Miskin Indonesia",
+      "region": "Kota",
+      "yyyy": "Maret 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 221027765,
+            "name": "September 2013"
+          },
+          {
+            "value": 225337016,
+            "name": "September 2014"
+          },
+          {
+            "value": 227719363,
+            "name": "September 2015"
+          },
+          {
+            "value": 231733374,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  }
+]
