@@ -1,8 +1,7 @@
 [
   {
     "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
+      "title": "Garis Kemiskinan Makanan Provinsi Banten",
       "region": "Kabupaten",
       "yyyy": "September 2014"
     },
@@ -10,20 +9,20 @@
       {
         "data": [
           {
-            "value": 237111,
-            "name": "Pandeglang"
+            "value": 204811,
+            "name": "September 2013"
           },
           {
-            "value": 219177,
-            "name": "Lebak"
+            "value": 223825,
+            "name": "September 2014"
           },
           {
-            "value": 351789,
-            "name": "Tangerang"
+            "value": 250522,
+            "name": "September 2015"
           },
           {
-            "value": 22319,
-            "name": "Serang"
+            "value": 262422,
+            "name": "September 2016"
           }
         ]
       }
@@ -31,8 +30,8 @@
   },
   {
     "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
+      "title": "Garis Kemiskinan Non Makanan Negara Indonesia",
+      "type": "title",
       "region": "Kota",
       "yyyy": "September 2014"
     },
@@ -40,20 +39,20 @@
       {
         "data": [
           {
-            "value": 421554,
-            "name": "Tangerang"
+            "value": 215122,
+            "name": "September 2013"
           },
           {
-            "value": 306253,
-            "name": "Cilegon"
+            "value": 229469,
+            "name": "September 2014"
           },
           {
-            "value": 242977,
-            "name": "Serang"
+            "value": 251943,
+            "name": "September 2015"
           },
           {
-            "value": 401696,
-            "name": "Tangerang Selatan"
+            "value": 264941,
+            "name": "September 2016"
           }
         ]
       }
@@ -61,8 +60,7 @@
   },
   {
     "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
+      "title": "Garis Kemiskinan Non Makanan Provinsi Banten",
       "region": "Kabupaten",
       "yyyy": "Maret 2015"
     },
@@ -70,20 +68,20 @@
       {
         "data": [
           {
-            "value": 247073,
-            "name": "Pandeglang"
+            "value": 83923,
+            "name": "September 2013"
           },
           {
-            "value": 228146,
-            "name": "Lebak"
+            "value": 91994,
+            "name": "September 2014"
           },
           {
-            "value": 372431,
-            "name": "Tangerang"
+            "value": 105914,
+            "name": "September 2015"
           },
           {
-            "value": 232856,
-            "name": "Serang"
+            "value": 110923,
+            "name": "September 2016"
           }
         ]
       }
@@ -91,8 +89,7 @@
   },
   {
     "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
+      "title": "Garis Kemiskinan Non Makanan Negara Indonesia",
       "region": "Kota",
       "yyyy": "Maret 2015"
     },
@@ -100,20 +97,20 @@
       {
         "data": [
           {
-            "value": 455228,
-            "name": "Tangerang"
+            "value": 77829,
+            "name": "September 2013"
           },
           {
-            "value": 323935,
-            "name": "Cilegon"
+            "value": 82859,
+            "name": "September 2014"
           },
           {
-            "value": 255614,
-            "name": "Serang"
+            "value": 92866,
+            "name": "September 2015"
           },
           {
-            "value": 433967,
-            "name": "Tangerang Selatan"
+            "value": 97050,
+            "name": "September 2016"
           }
         ]
       }
@@ -121,8 +118,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
+      "title": "Garis Kemiskinan Total Provinsi Banten",
       "region": "Kabupaten",
       "yyyy": "September 2014"
     },
@@ -130,20 +126,20 @@
       {
         "data": [
           {
-            "value": 113.1,
-            "name": "Pandeglang"
+            "value": 288733,
+            "name": "September 2013"
           },
           {
-            "value": 115.8,
-            "name": "Lebak"
+            "value": 315819,
+            "name": "September 2014"
           },
           {
-            "value": 173.1,
-            "name": "Tangerang"
+            "value": 356436,
+            "name": "September 2015"
           },
           {
-            "value": 71.4,
-            "name": "Serang"
+            "value": 373365,
+            "name": "September 2016"
           }
         ]
       }
@@ -151,8 +147,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
+      "title": "Garis Kemiskinan Total Negara Indonesia",
       "region": "Kota",
       "yyyy": "September 2014"
     },
@@ -160,20 +155,20 @@
       {
         "data": [
           {
-            "value": 98.8,
-            "name": "Tangerang"
+            "value": 292951,
+            "name": "September 2013"
           },
           {
-            "value": 15.5,
-            "name": "Cilegon"
+            "value": 312328,
+            "name": "September 2014"
           },
           {
-            "value": 36.2,
-            "name": "Serang"
+            "value": 344809,
+            "name": "September 2015"
           },
           {
-            "value": 25.3,
-            "name": "Tangerang Selatan"
+            "value": 361990,
+            "name": "September 2016"
           }
         ]
       }
@@ -181,8 +176,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
+      "title": "Jumlah Penduduk(orang) Miskin Provinsi Banten",
       "region": "Kabupaten",
       "yyyy": "Maret 2015"
     },
@@ -190,20 +184,20 @@
       {
         "data": [
           {
-            "value": 124.4,
-            "name": "Pandeglang"
+            "value": 677508,
+            "name": "September 2013"
           },
           {
-            "value": 126.4,
-            "name": "Lebak"
+            "value": 649188,
+            "name": "September 2014"
           },
           {
-            "value": 191.1,
-            "name": "Tangerang"
+            "value": 690668,
+            "name": "September 2015"
           },
           {
-            "value": 74.9,
-            "name": "Serang"
+            "value": 657740,
+            "name": "September 2016"
           }
         ]
       }
@@ -211,8 +205,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
+      "title": "Jumlah Penduduk(orang) Miskin Negara Indonesia",
       "region": "Kota",
       "yyyy": "Maret 2015"
     },
@@ -220,20 +213,78 @@
       {
         "data": [
           {
-            "value": 102.6,
-            "name": "Tangerang"
+            "value": 28606685,
+            "name": "September 2013"
           },
           {
-            "value": 17,
-            "name": "Cilegon"
+            "value": 27727778,
+            "name": "September 2014"
           },
           {
-            "value": 40.2,
-            "name": "Serang"
+            "value": 28513570,
+            "name": "September 2015"
           },
           {
-            "value": 25.9,
-            "name": "Tangerang Selatan"
+            "value": 27764320,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Jumlah Penduduk Tidak Miskin Provinsi Banten",
+      "region": "Kota",
+      "yyyy": "Maret 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 10817834,
+            "name": "September 2013"
+          },
+          {
+            "value": 11126494,
+            "name": "September 2014"
+          },
+          {
+            "value": 11325308,
+            "name": "September 2015"
+          },
+          {
+            "value": 11606265,
+            "name": "September 2016"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Jumlah Penduduk Tidak Miskin Indonesia",
+      "region": "Kota",
+      "yyyy": "Maret 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 221027765,
+            "name": "September 2013"
+          },
+          {
+            "value": 225337016,
+            "name": "September 2014"
+          },
+          {
+            "value": 227719363,
+            "name": "September 2015"
+          },
+          {
+            "value": 231733374,
+            "name": "September 2016"
           }
         ]
       }

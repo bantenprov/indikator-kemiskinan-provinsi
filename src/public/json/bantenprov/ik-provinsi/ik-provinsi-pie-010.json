@@ -1,8 +1,7 @@
 [
   {
     "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
+      "title": "Garis Kemiskinan Banten 2013",
       "region": "Kabupaten",
       "name": "Pandeglang"
     },
@@ -10,21 +9,25 @@
       {
         "data": [
           {
-            "value": 237111,
-            "name": "September 2014"
+            "value": 204811,
+            "name": "Makanan"
           },
           {
-            "value": 247073,
-            "name": "Maret 2015"
-          }
+            "value": 83923,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 288733,
+            "name": "Total"
+          }          
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
+      "title": "Garis Kemiskinan Indonesia 2013",
+      "type": "title",
       "region": "Kabupaten",
       "name": "Lebak"
     },
@@ -32,12 +35,16 @@
       {
         "data": [
           {
-            "value": 219177,
-            "name": "September 2014"
+            "value": 215122,
+            "name": "Makanan"
           },
           {
-            "value": 228146,
-            "name": "Maret 2015"
+            "value": 77829,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 292951,
+            "name": "Total"
           }
         ]
       }
@@ -45,162 +52,8 @@
   },
   {
     "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Tangerang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 351789,
-            "name": "September 2014"
-          },
-          {
-            "value": 372431,
-            "name": "Maret 2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Serang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 22319,
-            "name": "September 2014"
-          },
-          {
-            "value": 232856,
-            "name": "Maret 2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 421554,
-            "name": "September 2014"
-          },
-          {
-            "value": 455228,
-            "name": "Maret 2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
-      "region": "Kota",
-      "name": "Cilegon"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 306253,
-            "name": "September 2014"
-          },
-          {
-            "value": 323935,
-            "name": "Maret 2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
-      "region": "Kota",
-      "name": "Serang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 242977,
-            "name": "September 2014"
-          },
-          {
-            "value": 255614,
-            "name": "Maret 2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan)",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang Selatan"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 401696,
-            "name": "September 2014"
-          },
-          {
-            "value": 433967,
-            "name": "Maret 2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Pandeglang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 113.1,
-            "name": "September 2014"
-          },
-          {
-            "value": 124.4,
-            "name": "Maret 2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
+      "title": "Garis Kemiskinan Banten 2014",
+      "type": "title",
       "region": "Kabupaten",
       "name": "Lebak"
     },
@@ -208,12 +61,16 @@
       {
         "data": [
           {
-            "value": 115.8,
-            "name": "September 2014"
+            "value": 223825,
+            "name": "Makanan"
           },
           {
-            "value": 126.4,
-            "name": "Maret 2015"
+            "value": 91994,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 315819,
+            "name": "Total"
           }
         ]
       }
@@ -221,21 +78,25 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
+      "title": "Garis Kemiskinan Indonesia 2014",
+      "type": "title",
       "region": "Kabupaten",
-      "name": "Tangerang"
+      "name": "Lebak"
     },
     "series": [
       {
         "data": [
           {
-            "value": 173.1,
-            "name": "September 2014"
+            "value": 229469,
+            "name": "Makanan"
           },
           {
-            "value": 191.1,
-            "name": "Maret 2015"
+            "value": 82859,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 312328,
+            "name": "Total"
           }
         ]
       }
@@ -243,21 +104,25 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
+      "title": "Garis Kemiskinan Banten 2015",
+      "type": "title",
       "region": "Kabupaten",
-      "name": "Serang"
+      "name": "Lebak"
     },
     "series": [
       {
         "data": [
           {
-            "value": 71.4,
-            "name": "September 2014"
+            "value": 250522,
+            "name": "Makanan"
           },
           {
-            "value": 74.9,
-            "name": "Maret 2015"
+            "value": 105914,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 356436,
+            "name": "Total"
           }
         ]
       }
@@ -265,21 +130,25 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang"
+      "title": "Garis Kemiskinan Indonesia 2015",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
     },
     "series": [
       {
         "data": [
           {
-            "value": 98.8,
-            "name": "September 2014"
+            "value": 251943,
+            "name": "Makanan"
           },
           {
-            "value": 102.6,
-            "name": "Maret 2015"
+            "value": 92866,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 344809,
+            "name": "Total"
           }
         ]
       }
@@ -287,21 +156,25 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
-      "region": "Kota",
-      "name": "Cilegon"
+      "title": "Garis Kemiskinan Banten 2016",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
     },
     "series": [
       {
         "data": [
           {
-            "value": 15.5,
-            "name": "September 2014"
+            "value": 262442,
+            "name": "Makanan"
           },
           {
-            "value": 17,
-            "name": "Maret 2015"
+            "value": 110923,
+            "name": "Non Makanan"
+          },
+          {
+            "value": 373365,
+            "name": "Total"
           }
         ]
       }
@@ -309,43 +182,25 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
-      "region": "Kota",
-      "name": "Serang"
+      "title": "Garis Kemiskinan Indonesia 2016",
+      "type": "title",
+      "region": "Kabupaten",
+      "name": "Lebak"
     },
     "series": [
       {
         "data": [
           {
-            "value": 36.2,
-            "name": "September 2014"
+            "value": 264941,
+            "name": "Makanan"
           },
           {
-            "value": 40.2,
-            "name": "Maret 2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang)",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang Selatan"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 25.3,
-            "name": "September 2014"
+            "value": 97050,
+            "name": "Non Makanan"
           },
           {
-            "value": 25.9,
-            "name": "Maret 2015"
+            "value": 361990,
+            "name": "Total"
           }
         ]
       }

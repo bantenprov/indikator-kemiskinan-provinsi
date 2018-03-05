@@ -29,7 +29,7 @@
         <div class="card h-100" style="color: #fff; background-color: #009688;">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Indikator Kemiskinan Berdasarkan Wilayah 
+            Indikator Kemiskinan Berdasarkan Tahun 
           </div>
           <div class="card-body">
             <ik-provinsi-bar-01></ik-provinsi-bar-01>
@@ -40,7 +40,7 @@
         <div class="card h-100" style="color: #fff; background-color: #FF9800;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Indikator Kemiskinan Berdasarkan Wilayah
+            Indikator Kemiskinan Berdasarkan Tahun
           </div>
           <div class="card-body">
             <ik-provinsi-pie-01></ik-provinsi-pie-01>

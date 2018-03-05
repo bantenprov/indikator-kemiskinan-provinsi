@@ -120,7 +120,7 @@ export default {
         },
         series: [{
           type: 'bar',
-          data: ['zz','yy','xx',0],
+          data: [],
           barWidth: 30,
           barGap: '30%',
           cursor: 'default',
@@ -147,25 +147,27 @@ export default {
       var res = response.data;
 
       /**
-       * response :
-       * console.log(res)
-       *
-       * xAxis
-       * console.log(res[0].xAxis.data)
-       * console.log(Object.values(res[0].xAxis.data))
-       *
-       * series data
-       * console.log(res[0].series[0].data)
-       *
-       *region
-       *console.log(res[0].xAxis.region)
-       *
-       * length
-       * console.log(res.length)
-       */ 
+      * response :
+      * console.log(res)
+      *
+      * xAxis
+      * console.log(res[0].xAxis.data)
+      * console.log(Object.values(res[0].xAxis.data))
+      *
+      * series data
+      * console.log(res[0].series[0].data)
+      *
+      * region
+      * console.log(res[0].xAxis.region)
+      *
+      * length
+      * console.log(res.length);
+      */
+
       this.bar.xAxis.data = Object.values(res[0].xAxis.data);
       this.bar.series[0].data = res[0].series[0].data;
-      this.bar.title.text =res[0].xAxis.category + ' ' + res[0].xAxis.region + ' ' + res[0].xAxis.name ; 
+      this.bar.title.text = res[0].xAxis.title;
+
       // interval
       let i = 0;
 
@@ -173,14 +175,17 @@ export default {
 
         this.bar.xAxis.data = Object.values(res[i].xAxis.data);
         this.bar.series[0].data = res[i].series[0].data;
-        this.bar.title.text =res[i].xAxis.category + ' ' + res[i].xAxis.region + ' ' + res[i].xAxis.name  ;
+        this.bar.title.text = res[i].xAxis.title;
 
         i++;
 
-        if(i == res.length) {
+        if(i == res.length)
+        {
           i = 0;
         }
-      }, 4000);
+
+      },4000);
+
     })
     .catch(function(error) {
       // error
