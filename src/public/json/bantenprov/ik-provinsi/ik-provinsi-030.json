@@ -1,64 +1,23 @@
 [
   {
     "xAxis": {
-      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
-      "region": "",
-      "name": "Kabupaten",
-      "yyyy": "September 2014",
+      "category": "Garis Kemiskinan (Rupiah) ",
+      "title": "Garis Kemiskinan(rupiah) Makanan Provinsi Banten",
       "data": [
-        "Kab. Pandeglang",
-        "Kab. Lebak",
-        "Kab. Tangerang",
-        "Kab. Serang",
-        "Kota Tangerang",
-        "Kota Cilegon",
-        "Kota Serang",
-        "Kota Tangerang Selatan"
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+        
       ]
     },
     "series": [
       {
         "data": [
-          237111,
-          219177,
-          351789,
-          22319,
-          421554,
-          306253,
-          242977,
-          401696
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
-      "region": "",
-      "name": "Kabupaten",
-      "yyyy": "September 2014",
-      "data": [
-        "Kab. Pandeglang",
-        "Kab. Lebak",
-        "Kab. Tangerang",
-        "Kab. Serang",
-        "Kota Tangerang",
-        "Kota Cilegon",
-        "Kota Serang",
-        "Kota Tangerang Selatan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          113.1,
-          115.8,
-          173.1,
-          71.4,
-          98.8,
-          15.5,
-          36.2,
-          25.3
+          204811,
+          223825,
+          250522,
+          262422
         ]
       }
     ]
@@ -66,63 +25,197 @@
   {
     "xAxis": {
       "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
-      "region": "",
-      "name": "Kabupaten",
-      "yyyy": "Maret 2015",
+      "title": "Garis Kemiskinan(rupiah) Makanan Negara Indonesia",
       "data": [
-        "Kab. Pandeglang",
-        "Kab. Lebak",
-        "Kab. Tangerang",
-        "Kab. Serang",
-        "Kota Tangerang",
-        "Kota Cilegon",
-        "Kota Serang",
-        "Kota Tangerang Selatan"
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
       ]
     },
     "series": [
       {
         "data": [
-          247073,
-          228146,
-          372431,
-          232856,
-          455228,
-          323935,
-          255614,
-          433967
+          215122,
+          229469,
+          251943,
+          264941
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Penduduk Miskin (Ribuan Orang) ",
-      "region": "",
-      "name": "Kabupaten",
-      "yyyy": "Maret 2015",
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Garis Kemiskinan(rupiah) Non Makanan Provinsi Banten",
       "data": [
-        "Kab. Pandeglang",
-        "Kab. Lebak",
-        "Kab. Tangerang",
-        "Kab. Serang",
-        "Kota Tangerang",
-        "Kota Cilegon",
-        "Kota Serang",
-        "Kota Tangerang Selatan"
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
       ]
     },
     "series": [
       {
         "data": [
-          124.4,
-          126.4,
-          191.1,
-          74.9,
-          102.6,
-          17,
-          40.2,
-          25.9
+          83923,
+          91994,
+          105914,
+          110923
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Garis Kemiskinan(rupiah) Non Makanan Negara Indonesia",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+            77829,
+            82859,
+            92866,
+            97050
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Garis Kemiskinan(rupiah) Total Provinsi Banten",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         288733,
+          315819,
+         356436,
+         373365
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Garis Kemiskinan(rupiah) Total Negara Indonesia",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         292951,
+          312328,
+          344809,
+          361990
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Jumlah Penduduk Miskin Provinsi Banten",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         677508,
+         649188,
+          690668,
+          657740
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Jumlah Penduduk(orang) Miskin Negara Indonesia",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         28606685,
+          27727778,
+          28513570,
+          27764320
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Jumlah Penduduk Tidak Miskin Provinsi Banten",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+         10817834,
+          11126494,
+          11325308,
+          11606265
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Garis Kemiskinan (Rupiah/ Kapita/ Bulan) ",
+      "title": "Jumlah Penduduk Tidak Miskin Negara Indonesia",
+      "data": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+        221027765,
+        225337016,
+        227719363,
+        231733374
         ]
       }
     ]
